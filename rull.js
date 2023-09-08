@@ -52,8 +52,8 @@ global.owner = [
 ]
 global.mods = []
 global.prems = fs.readFileSync('./rul-settings/premium.json')
-global.nomorbot = '' //pasang no bot lo 
-global.nomorown = '' //pasang no own lo
+global.nomorbot = '6282287750102' //pasang no bot lo 
+global.nomorown = '84876459724' //pasang no own lo
 global.nomorown1 = ''
 global.nomorown2 = ''
 global.nomorwa = '0'
